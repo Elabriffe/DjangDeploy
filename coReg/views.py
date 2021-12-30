@@ -1,6 +1,5 @@
 from django.shortcuts import render,redirect
 from django.shortcuts import render
-import openpyxl
 
 
 # Create your views here.
